@@ -1,4 +1,4 @@
-![TREU](treu-logo.png)
+![TREU](./images/treu-logo.png)
 
 This is the main repository for the TREU project.
 
