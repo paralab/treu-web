@@ -4,13 +4,8 @@ layout: main
 ---
 
 
-This is the main repository for the TREU project.
+# Trust and Reproducibility Education for Undergraduates (TREU): Intelligent Computation for Science and Engineering 
 
-## PIs
+## Should I apply to Treu ? 
 
-- Ganesh Gopalakrishnan
-- Mary Hall
-- Hari Sundar
-- Aditya Bhaskara
-- Eric Eide
-
+## When will this take place ?
