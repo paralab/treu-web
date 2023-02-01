@@ -1,4 +1,8 @@
-![TREU](./images/treu-logo.png)
+---
+title: "TREU at Utah"
+layout: main
+---
+
 
 This is the main repository for the TREU project.
 
