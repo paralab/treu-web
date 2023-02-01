@@ -3,7 +3,8 @@ safe: true
 incremental: false
 title: Treu - SoC - Utah
 description: REU website 
-theme: minima
+theme: modernist
+show_downloads: false 
 highlighter: rouge
 gist:
   noscript: false
