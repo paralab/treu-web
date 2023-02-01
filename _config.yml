@@ -1,7 +1,9 @@
 lsi: false
 safe: true
 incremental: false
-theme: Merlot
+title: Treu - SoC - Utah
+description: REU website 
+theme: minima
 highlighter: rouge
 gist:
   noscript: false
