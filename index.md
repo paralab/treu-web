@@ -3,7 +3,6 @@ title: "TREU at Utah"
 layout: main
 ---
 
-<img src="./images/uou.jpg" alt="campus" style="width:80ex" />
 
 ## What is TREU ?
 
