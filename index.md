@@ -20,6 +20,8 @@ TREU combines training activities
 inclusion, and research),
 mentored research projects, and cohort-building.
 
+The program focuses on teaching students about the nature of research through structured activities and legitimate peripheral participation, **rather than limiting their involvement to just tasks they can perform independently**. Across the cohort, students will be embedded in research from different areas related to trust and reproducibility, most likely topics that they didn't realize were even part of computing.  Our approach will accelerate students' engagement with the purpose, impact, and practices of research. 
+
 Housing, travel, and a $XXXX stipend are provided for participants. 
 
 ## Should I apply to Treu ? 

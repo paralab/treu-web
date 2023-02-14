@@ -18,7 +18,7 @@ h2 { font-size: 1.20; margin: .75em 0 0; }
 h2 { font-size: 1.10; margin: .75em 0 0; }
 
 header { height: 4.5em; margin-bottom: 2em; border-bottom: 1px solid #26BA1A; }
-header img { height: 6em; margin-bottom: -1.5em; float: left; }
+header img { height: 6em; width: 5em; margin-bottom: -1.5em; float: left; }
 header nav { overflow: auto; }
 header nav ul {
     list-style: inside none; display: flex; margin: 0;
@@ -27,15 +27,15 @@ header nav ul {
 }
 header nav li { margin: 0 0.5ex; font-size: 120%; }
 header nav li:last-child { margin-right: 0; }
-header nav a { color: #BA261A; text-decoration: none; }
-header nav a:hover { color: #EF432A; text-decoration: underline; }
+header nav a { color: #26BA1A; text-decoration: none; }
+header nav a:hover { color: #43EF2A; text-decoration: underline; }
 
 .photo-list { list-style: inside none; padding: 0; display: flex; flex-flow: row wrap; }
 .photo-list li { width: 25%; margin: 0; font-family: 'Merriweather Sans', sans; height: calc(25%+2em); }
 .photo-list li.long { font-size: 75%; }
 .photo-list a {
     display: block; width: 80%; padding: 10%; height: 87.5%;
-    text-align: center; color: #BA261A; text-decoration: none;
+    text-align: center; color: #26BA1A; text-decoration: none;
 }
 .photo-list a:hover { background: #eee; }
 .photo-list img { display: block; width: 125%; margin: -12.5% -12.5% 10%; object-fit: cover; }
