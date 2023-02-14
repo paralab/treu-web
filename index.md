@@ -3,7 +3,7 @@ title: "TREU at Utah"
 layout: main
 ---
 
-![uou](/images/uou.jpg | width=800)
+![uou](/images/uou.jpg)
 
 ## What is TREU ?
 
