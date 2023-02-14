@@ -36,7 +36,7 @@ Site: (1) to provide research experience to broaden participation in computing t
 students whose research opportunities are 
 severely limited at their home institution. We plan to recruit 30-50% of our students from these groups. 
 
-While the program is open to all, students with any of the following traits is especially encouraged to apply:
+While the program is open to all, students with any of the following traits is especially encouraged to [apply](./apply.html):
  - Underrepresented in Computer Science Research i.e. Gender minorities, African Americans, Hispanics, American Indians, Alaska Natives, Native Hawaiians, Pacific Islanders, and persons with disabilities;
  - Sophomore or Junior undergraduate majoring in Mathematics or Computer Science
  - Interest in a PhD in Computer Science
