@@ -7,7 +7,7 @@ a { color: #204a87; text-decoration: none; }
 a:hover { color: #3465a4; text-decoration: underline; }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Merriweather Sans', sans; font-weight: normal; color: #BA261A;
+    font-family: 'Merriweather Sans', sans; font-weight: normal; color: #26BA1A;
     border-bottom: 1px solid currentColor; line-height: 1;
     /* Cover up the underline under ink */
     text-shadow: 2px 2px white, 2px -2px white, -2px 2px white, -2px -2px white;
