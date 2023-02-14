@@ -3,8 +3,6 @@ title: "TREU at Utah"
 layout: main
 ---
 
-![uou](/images/uou.jpg)
-
 ## What is TREU ?
 
 Trust and Reproducibility Education for Undergraduates (**TREU**) engages students in research practices that emphasize trust and reproducibility
@@ -19,6 +17,8 @@ TREU combines training activities
 (in technical skills, ethics and
 inclusion, and research),
 mentored research projects, and cohort-building.
+
+Housing, travel, and a $XXXX stipend are provided for participants. 
 
 ## Should I apply to Treu ? 
 

@@ -3,11 +3,6 @@
 html { font-size: 20px; line-height: 1.4; }
 body { max-width: 80ex; padding: 1ex; margin: 2em auto; }
 
-img{
-    width:100%;
-    max-width:80ex;
-}
-
 a { color: #204a87; text-decoration: none; }
 a:hover { color: #3465a4; text-decoration: underline; }
 
