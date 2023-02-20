@@ -5,7 +5,7 @@ layout: main
 
 <img src="./images/uou.jpg" alt="campus" width="820" />
 
-## What is  Trust and Reproducibility of Intelligent Computation ?
+## Trust and Reproducibility of Intelligent Computation
 
 Trust and Reproducibility of Intelligent Computation engages students in research practices that emphasize trust and reproducibility
 in the [OAC](https://www.nsf.gov/div/index.jsp?div=OAC) priority areas of High-performance Computing (HPC), Machine Learning (ML), and Computer Networking.
