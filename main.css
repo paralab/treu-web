@@ -40,6 +40,7 @@ table {
 td, th {
   border: 1px solid #24943A;
   padding: 3px 2px;
+  vertical-align: top;
 }
 tbody td {
   font-size: 14px;
