@@ -3,14 +3,14 @@ title: "Projects: TREU"
 layout: main
 ---
 
-# Programming Systems 
+## Programming Systems 
 
 | Faculty | Research Areas | Project Description                |
 |---------|----------------|------------------------------------|
 | [Ganesh Gopalakrishnan][gg] | Formal methods, floating point arithmetic | **Precision Tuning versus Accuracy Improvement for GPUs:** This project will first research how best to exploit new number formats such as 16-bit floating-point arithmetic that reduce precision. It will then demonstrate methods to restore the safety of the computation through methods such as rescaling numbers to fit the representational precision allowed. These will be illustrated via pre-existing Pytorch libraries such as APEX that support mixed-precision neural network training. |
 | [Mary Hall][mh] | Compilers, Performance | **Sparse Tensor Code Synthesis with Automated Weight Reduction:** Tensors can be used to represent data sets such as  images. Such tensors can be sparsified, and the generated code can take advantage of this sparsity, helping reduce total computation and data movement.  This research will involve implementing functions to sparsify networks, considering implications on code synthesis, performance and accuracy. |
 
-# Practice 
+## Practice 
 
 | Faculty | Research Areas | Project Description                |
 |---------|----------------|------------------------------------|
@@ -18,7 +18,7 @@ layout: main
 | [Jason Weise][jw] | Personal Data, HCI | **Human-Centered Design Applied to CloudLab Configuration:** Enable CloudLab users to make their work reproducible to: (1) resume work  even after a CloudLab reservation has expired; (2) share their work within their research lab; or, (3) submit it to an artifact evaluation committee.  This research will identify and explore  opportunities for better interface-level support to facilitate reproducibility while projects are in progress, rather than as a discrete final step at the end of a project. It will leverage Human-Centered Computing methods, including user observation, low- and medium-fidelity prototyping, and participatory design activities. |
 | [Mu Zhang][mz] | Software Security, Privacy | **Security Analysis of Configurable Scientific Computing Environments:** The software stacks of high performance computing infrastructure are at great risk, as evidenced by real-world attacks. Detecting vulnerabilities in HPC settings remains a challenging task because it requires a holistic understanding of highly-configurable scientific computing contexts. This project seeks to investigate the hardware, software and runtime contexts of HPC infrastructure, develop tools to comprehensively extract such contexts from individual HPC deployments, and incorporate a contextual model into automated vulnerability detection. |
 
-# Machine Learning 
+## Machine Learning 
 
 | Faculty | Research Areas | Project Description                |
 |---------|----------------|------------------------------------|
@@ -26,7 +26,7 @@ layout: main
 | [Jeff Phillips][jp] | Algorithms for Big Data, ML | **Building Featurized Representations:** Most machine learning algorithms are designed and implemented for data sets that are represented as vectors, or belong to some very common structure like text or images, where the first step is to convert them to some community-developed featurized representation.  Data sets such as the mix of spatial and meta data emerging from RSSI signals from campus buses is not originally in such a form.  This project will focus on the data manipulation task of converting abstract data that mixes spatial, temporal, and categorical data from POWDER into a vectorized representation that preserves the many signals that the complex data is capturing.  From there students will be able to easily apply various built-in learning algorithms (e.g., directly invoke sk-learn functions) and see what properties can and cannot be predicted from a single unified vector representation. |
 | [P. Sadayappan][ps] | Compilers, Perf. Optimization, Matrix-Tensor Computation, Data Movement Complexity | Deep Neural Network models with very high accuracy have been developed for image processing and natural language processing applications. But accurate ML  models often are very large and extremely compute-intensive, making them infeasible to deploy in many contexts, e.g., edge devices. A challenge in developing more compact models is that unlike large models, the execution time and expended energy are no longer directly proportional to the number of arithmetic operations. This is because data movement overheads are much more difficult to amortize with compact ML models. This project will %explore the development of compare performance models for compact neural networks and the trade-offs between model size, model performance, and accuracy. |
 
-# Applications 
+## Applications 
 
 | Faculty | Research Areas | Project Description                |
 |---------|----------------|------------------------------------|
