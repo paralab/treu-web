@@ -32,7 +32,7 @@ header nav a:hover { color: #43EF2A; text-decoration: underline; }
 
 table {
   font-family: "Merriweather Sans", sans;
-  border: 1px solid #24943A;
+  border: 0px solid #24943A;
   background-color: #EEEEEE;
   width: 100%;
   text-align: left;
