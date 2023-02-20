@@ -30,7 +30,7 @@ layout: main
 
 | Faculty | Research Areas | Project Description                |
 |---------|----------------|------------------------------------|
-| [Shireen Elhabian][eb] | Statistical machine learning, computational methods for medical image analysis | **Scalable Architectures for Inferring Anatomy Directly from Images:** Anatomies' form (or shape) and function relationship is a central theme in biology where abnormal shape changes are closely tied to pathological functions. This research will expose trainees to the rudiments of statistical shape modeling. It will show how segmenting the anatomy of interest is carried out on volumetric images. |
+| [Shireen Elhabian][se] | Statistical machine learning, computational methods for medical image analysis | **Scalable Architectures for Inferring Anatomy Directly from Images:** Anatomies' form (or shape) and function relationship is a central theme in biology where abnormal shape changes are closely tied to pathological functions. This research will expose trainees to the rudiments of statistical shape modeling. It will show how segmenting the anatomy of interest is carried out on volumetric images. |
 | [Hari Sundar][hs] | Computationally optimal parallel high-performance algorithms | **Tracking inertial migration of particles:** The study of particles (cells, precipitates) in aqueous flow is useful in biological processing, chemical reaction control, and for creating structured materials. This projects will explore the use of machine learning to estimate migration maps for particles, using existing simulation data, and evaluate it using new particle/obstruction configurations. Hands-on demonstrations using prepackaged experiments will be the approach taken. |
 
   
