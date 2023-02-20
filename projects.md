@@ -9,10 +9,7 @@ layout: main
 
 | Faculty | Research Areas | Project Description                |
 |---------|----------------|------------------------------------|
-| [Ganesh Gopalakrishnan][gg] | Formal methods, floating point arithmetic | **Precision Tuning versus Accuracy Improvement for GPUs:**
-We are in an era where moving data between chips or even within chips consumes energy. ...
-These will be illustrated via pre-existing Pytorch libraries such as APEX that support mixed-precision neural network training.
-|
+| [Ganesh Gopalakrishnan][gg] | Formal methods, floating point arithmetic | **Precision Tuning versus Accuracy Improvement for GPUs:** Data movement costs energy, and one must therefore be cognizant of the number of bits of precision chosen to represent numbers, striking a balance between representational accuracy and data movement energy costs... |
 | [Mary Hall][mh] | Compilers, Performance | **Sparse Tensor Code Synthesis with Automated Weight Reduction:** Tensors can be used to represent data sets such as  images. Such tensors can be sparsified, and the generated code can take advantage of this sparsity, helping reduce total computation and data movement.  This research will involve implementing functions to sparsify networks, considering implications on code synthesis, performance and accuracy. |
 
 --- 
