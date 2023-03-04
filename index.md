@@ -7,7 +7,9 @@ layout: main
 
 ## Trust and Reproducibility of Intelligent Computation
 
-This exciting 10-week summer internship sponsored by the National Science Foundation (NSF) from June 1st till August 10th, 2023 will train students in the computer science research areas of High-performance Computing (HPC), Machine Learning (ML), and Computer Networking. The emphasis of our training will be on {\em Trust} (``How do we rely on the computed results?'') and {\em Reproducibility} (``Can others replicate either the experimental outcomes of an HPC simulation or an ML classification activity?'').
+This 10-week Research Experience for Undergraduates summer internship sponsored by the National Science Foundation (NSF) will be held at the Kahlert School of Computing, University of Utah, from June 1st till August 10th, 2023. It will train students in the exciting computer science research areas of High-performance Computing (HPC), Machine Learning (ML), and Computer Networking. HPC is fundamental to grand-challenge issues ranging from Climate Research to Fighting Pandemics. ML plays a pivotal role in our day-to-day lives including in applications such as ChatBOTs to assist-devices for the vision-impaired. ML also reduces or eliminates hours of HPC simulations by taking decisions based on data rather than first-principle computations.
+
+The emphasis of our training will be on {\em Trust} (``How do we rely on the computed results?'') and {\em Reproducibility} (``Can others replicate either the experimental outcomes of an HPC simulation or an ML classification activity?'').
 
 hTrust and Reproducibility of Intelligent Computation engages students in research practices that emphasize trust and reproducibility in the National Science Foundation's [OAC](https://www.nsf.gov/div/index.jsp?div=OAC) priority areas of 
 Our REU Site combines training activities
