@@ -1,11 +1,11 @@
 ---
-title: "Trust and Reproducibility of Intelligent Computation at Utah"
+title: "REU Site: Trust and Reproducibility of Intelligent Computation at Utah"
 layout: main
 ---
 
 <img src="./images/uou.jpg" alt="campus" width="820" />
 
-## Trust and Reproducibility of Intelligent Computation
+## REU Site: Trust and Reproducibility of Intelligent Computation
 
 **Applications are now open** from undergraduate students (US Citizens, Permanent Residents) at all levels to be selected to this *10-week Research Experience for Undergraduates summer internship* sponsored by the National Science Foundation (NSF) will be held at the Kahlert School of Computing, University of Utah, from June 1st till August 10th, 2023, in the beautiful Salt Lake City, Utah -- nestled amidst the Wasatch Mountains.
 
