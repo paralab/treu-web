@@ -13,30 +13,21 @@ We call this REU site ''TREU'' because of its emphasis on *Trust* (*How do we re
 
 We will will train students in the exciting computer science research areas of High-performance Computing (HPC), Machine Learning (ML), and Computer Networking. HPC is fundamental to grand-challenge issues ranging from Climate Research to Fighting Pandemics by understanding their chemical structures. ML plays a pivotal role in our day-to-day lives including in applications such as ChatBOTs to assist-devices for the vision-impaired. ML also reduces or eliminates hours of HPC simulations by taking decisions based on data rather than first-principle computations. Computer Networking is fundamental to the connected society as well as the **smart devices** that will be in our pockets or in our cars, and ``talk to each other,'' with us ensuring the security and integrity of the communicated data.
 
+Sponsored by the National Science Foundation (NSF)'s Office of Advanced Cyberinfrastructure ([OAC](https://www.nsf.gov/div/index.jsp?div=OAC), we will *fly out* the selected REU trainees to Utah, *house them* in our wonderful on-campus housing, *pay all room and board*, and on top of it, *pay a stipend of $7,200* per student for giving us their time and attention to be trained *not only* in the aforesaid technical priority areas *but also* the connected and important *societal skills* that include ethics, inclusivity, and microaggression management. There will be plenty of hands-on research projects, cohort-building activities, and (last but not least) *fun social activities*.
 
+## **How can I apply?**
 
-hTrust and Reproducibility of Intelligent Computation engages students in research practices that emphasize trust and reproducibility in the National Science Foundation's [OAC](https://www.nsf.gov/div/index.jsp?div=OAC) priority areas of 
-Our REU Site combines training activities
-(in technical skills, ethics and
-inclusion, and research),
-mentored research projects, and cohort-building.
+While the program is open to all, students with any of the following traits is especially encouraged to apply via the [**this NSF ETAP Portal**](https://www.nsf.gov/div/index.jsp?div=OAC).
 
-The program focuses on teaching students about the nature of research through structured activities and legitimate peripheral participation, **rather than limiting their involvement to just tasks they can perform independently**. Across the cohort, students will be embedded in research from different areas related to trust and reproducibility, most likely topics that they didn't realize were even part of computing.  Our approach will accelerate students' engagement with the purpose, impact, and practices of research. 
+We **especially** encourage applications from
 
-Housing, travel, and a $XXXX stipend are provided for participants. 
-
-## Should I apply to Treu ? 
-
-We have two goals for selecting students for this program 
- 
- 1. to provide research experience to broaden participation in computing to populations that are historically underrepresented in computing, including women, African Americans, Hispanics, American Indians, Alaska Natives, Native Hawaiians, Pacific Islanders, and persons with disabilities; and, 
- 2. to reach students whose research opportunities are severely limited at their home institution. We plan to recruit 30-50% of our students from these groups. 
-
-While the program is open to all, students with any of the following traits is especially encouraged to [apply](./apply.html):
  - Underrepresented in Computer Science Research i.e. Gender minorities, African Americans, Hispanics, American Indians, Alaska Natives, Native Hawaiians, Pacific Islanders, and persons with disabilities;
+ 
  - Sophomore or Junior undergraduate majoring in Mathematics or Computer Science
+ 
  - Interest in a PhD in Computer Science
 
-## When will this take place ?
+## **Questions?**
 
-TREU takes place over 10 weeks in the summer, exact timing subject to on-campus housing availability. Start date is approximately June 1st, end date is approximately August 10th.
+Please ask your questions through our ETAP portal at [**this NSF ETAP Portal**](https://www.nsf.gov/div/index.jsp?div=OAC) by searching for **REU Site: Trust and Reproducibility of Intelligent Computation** and asking your questions there. Kindly do not send-in any personal information other than through the above site, and unless requested.
+
