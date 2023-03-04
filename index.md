@@ -17,7 +17,7 @@ Sponsored by the National Science Foundation (NSF)'s Office of Advanced Cyberinf
 
 ## **How can I apply?**
 
-While the program is open to all, students with any of the following traits is especially encouraged to apply via the [**this NSF ETAP Portal**](https://www.nsf.gov/div/index.jsp?div=OAC).
+While the program is open to all, students with any of the following traits is especially encouraged to apply via the [**this NSF ETAP Portal**](https://www.nsf.gov/div/index.jsp?div=OAC). Note that the **Application Deadline** is April 15, 2023, and that *we expect to fund only about 10 REUs*.
 
 We **especially** encourage applications from
 
