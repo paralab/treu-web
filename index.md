@@ -7,9 +7,11 @@ layout: main
 
 ## Trust and Reproducibility of Intelligent Computation
 
-This 10-week Research Experience for Undergraduates summer internship sponsored by the National Science Foundation (NSF) will be held at the Kahlert School of Computing, University of Utah, from June 1st till August 10th, 2023. It will train students in the exciting computer science research areas of High-performance Computing (HPC), Machine Learning (ML), and Computer Networking. HPC is fundamental to grand-challenge issues ranging from Climate Research to Fighting Pandemics. ML plays a pivotal role in our day-to-day lives including in applications such as ChatBOTs to assist-devices for the vision-impaired. ML also reduces or eliminates hours of HPC simulations by taking decisions based on data rather than first-principle computations.
+This 10-week Research Experience for Undergraduates summer internship sponsored by the National Science Foundation (NSF) will be held at the Kahlert School of Computing, University of Utah, from June 1st till August 10th, 2023, in the beautiful Salt Lake City, Utah -- nestled amidst the Wasatch Mountains depicted by our cartoon logo here. We call this REU site ``TREU'' because of its emphasis on _Trust_ (``How do we rely on the computed results?'') and _Reproducibility_ (``Can others replicate either the experimental outcomes of an HPC simulation or an ML classification activity?'').
 
-The emphasis of our training will be on {\em Trust} (``How do we rely on the computed results?'') and {\em Reproducibility} (``Can others replicate either the experimental outcomes of an HPC simulation or an ML classification activity?'').
+It will train students in the exciting computer science research areas of High-performance Computing (HPC), Machine Learning (ML), and Computer Networking. HPC is fundamental to grand-challenge issues ranging from Climate Research to Fighting Pandemics. ML plays a pivotal role in our day-to-day lives including in applications such as ChatBOTs to assist-devices for the vision-impaired. ML also reduces or eliminates hours of HPC simulations by taking decisions based on data rather than first-principle computations.
+
+
 
 hTrust and Reproducibility of Intelligent Computation engages students in research practices that emphasize trust and reproducibility in the National Science Foundation's [OAC](https://www.nsf.gov/div/index.jsp?div=OAC) priority areas of 
 Our REU Site combines training activities
