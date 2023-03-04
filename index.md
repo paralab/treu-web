@@ -7,15 +7,10 @@ layout: main
 
 ## Trust and Reproducibility of Intelligent Computation
 
-Trust and Reproducibility of Intelligent Computation engages students in research practices that emphasize trust and reproducibility
-in the [OAC](https://www.nsf.gov/div/index.jsp?div=OAC) priority areas of High-performance Computing (HPC), Machine Learning (ML), and Computer Networking.
-A typical undergraduate is not sufficiently exposed to these
-concerns nor the aforesaid supportive tools—and yet they will be the ones building future intelligent systems in about a decade.
-Our REU site will help broaden the conception of computing as
-a field, improve
-their technical skills, strengthen their understanding of ethical concerns in computing, and nurture their
-abilities to foster inclusivity in computing.
-TREU combines training activities
+This exciting 10-week summer internship sponsored by the National Science Foundation (NSF) from June 1st till August 10th, 2023 will train students in the computer science research areas of High-performance Computing (HPC), Machine Learning (ML), and Computer Networking. The emphasis of our training will be on {\em Trust} (``How do we rely on the computed results?'') and {\em Reproducibility} (``Can others replicate either the experimental outcomes of an HPC simulation or an ML classification activity?'').
+
+hTrust and Reproducibility of Intelligent Computation engages students in research practices that emphasize trust and reproducibility in the National Science Foundation's [OAC](https://www.nsf.gov/div/index.jsp?div=OAC) priority areas of 
+Our REU Site combines training activities
 (in technical skills, ethics and
 inclusion, and research),
 mentored research projects, and cohort-building.
