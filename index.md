@@ -7,9 +7,11 @@ layout: main
 
 ## Trust and Reproducibility of Intelligent Computation
 
-**Applications are now open** from undergraduate students (US Citizens, Permanent Residents) at all levels to be selected to this *10-week Research Experience for Undergraduates summer internship* sponsored by the National Science Foundation (NSF) will be held at the Kahlert School of Computing, University of Utah, from June 1st till August 10th, 2023, in the beautiful Salt Lake City, Utah -- nestled amidst the Wasatch Mountains. We call this REU site ''TREU'' because of its emphasis on *Trust* (*How do we rely on the computed results?*) and *Reproducibility* (*Can others replicate either the experimental outcomes of an HPC simulation or an ML classification activity?*).
+**Applications are now open** from undergraduate students (US Citizens, Permanent Residents) at all levels to be selected to this *10-week Research Experience for Undergraduates summer internship* sponsored by the National Science Foundation (NSF) will be held at the Kahlert School of Computing, University of Utah, from June 1st till August 10th, 2023, in the beautiful Salt Lake City, Utah -- nestled amidst the Wasatch Mountains.
 
-It will train students in the exciting computer science research areas of High-performance Computing (HPC), Machine Learning (ML), and Computer Networking. HPC is fundamental to grand-challenge issues ranging from Climate Research to Fighting Pandemics. ML plays a pivotal role in our day-to-day lives including in applications such as ChatBOTs to assist-devices for the vision-impaired. ML also reduces or eliminates hours of HPC simulations by taking decisions based on data rather than first-principle computations.
+We call this REU site ''TREU'' because of its emphasis on *Trust* (*How do we rely on the computed results?*) and *Reproducibility* (*Can others replicate either the experimental outcomes of an HPC simulation or an ML classification activity?*).
+
+We will will train students in the exciting computer science research areas of High-performance Computing (HPC), Machine Learning (ML), and Computer Networking. HPC is fundamental to grand-challenge issues ranging from Climate Research to Fighting Pandemics by understanding their chemical structures. ML plays a pivotal role in our day-to-day lives including in applications such as ChatBOTs to assist-devices for the vision-impaired. ML also reduces or eliminates hours of HPC simulations by taking decisions based on data rather than first-principle computations. Computer Networking is fundamental to the connected society as well as the **smart devices** that will be in our pockets or in our cars, and ``talk to each other,'' with us ensuring the security and integrity of the communicated data.
 
 
 
