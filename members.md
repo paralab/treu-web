@@ -1,5 +1,5 @@
 ---
-title: "Members: TREU"
+title: "Instructors and Colleagues: TREU"
 layout: main
 ---
 
