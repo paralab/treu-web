@@ -9,7 +9,8 @@ layout: main
 
 | Faculty | Research Areas | Project Description                |
 |---------|----------------|------------------------------------|
-| [Ganesh Gopalakrishnan][gg] | Formal methods, floating point arithmetic | **Precision Tuning versus Accuracy Improvement for GPUs:** Data movement costs energy, and one must therefore be cognizant of the number of bits of precision chosen to represent numbers, striking a balance between representational accuracy and data movement energy costs... |
+| [Ganesh Gopalakrishnan][gg] | Formal methods, floating point arithmetic | **Making Numerical Data Representation Efficient and Reliable:** The number of bits we allocate to represent a number decides the number of bits to be moved and stored. Given the vast number of computers deployed on earth, such *data movement* is already responsible for significant percentages of the world's electrical energy consumption (by some estimates, approaching 5%). On the other hand, not allocating a sufficient number of bits makes the data highly imprecise, risking wrong computational results in critical areas such as medical research, or risking inaccurate classification by ML-based intrusion detection systems. We will give hands-on experience to trainees to understand how numerical data is represented and manipulated, and the tradeoffs of energy versus accuracy that can be made in various computational domains.|
+
 | [Mary Hall][mh] | Compilers, Performance | **Sparse Tensor Code Synthesis with Automated Weight Reduction:** Tensors can be used to represent data sets such as  images. Such tensors can be sparsified, and the generated code can take advantage of this sparsity, helping reduce total computation and data movement.  This research will involve implementing functions to sparsify networks, considering implications on code synthesis, performance and accuracy. |
 
 
