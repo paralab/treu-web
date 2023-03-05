@@ -5,7 +5,7 @@ layout: main
 
 ## Programming Systems 
 
-<img src="./images/elephant.png" alt="Floating-point Numbers" width="20">
+<img src="./images/elephant.png" alt="Floating-point Numbers" width="80">
 
 
 
