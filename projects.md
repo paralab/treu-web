@@ -5,7 +5,7 @@ layout: main
 
 ## Programming Systems 
 
-<img src="./images/elephant.png" alt="Floating-point Numbers" width="230">
+<img src="./images/elephant.png" alt="Floating-point Numbers" width="400">
 
 
 | Faculty | Research Areas | Project Description                |
@@ -21,7 +21,7 @@ layout: main
 ## Practice 
 
 
-<img src="./images/map.png" alt="Wireless signal strength" width="190">
+<img src="./images/map.png" alt="Wireless signal strength" width="240">
 
 
 | Faculty | Research Areas | Project Description                |
@@ -44,7 +44,7 @@ layout: main
 
 ## Applications
 
-<img src="./images/ortho.png" alt="Femur modeled by Shapeworks" width="190">
+<img src="./images/ortho.png" alt="Femur modeled by Shapeworks" width="280">
 
 | Faculty | Research Areas | Project Description                |
 |---------|----------------|------------------------------------|
