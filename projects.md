@@ -44,7 +44,7 @@ layout: main
 
 ## Applications
 
-<img src="./images/femur.png" alt="ortho.png" width="80">
+<img src="./images/ortho.png" alt="Femur modeled by Shapeworks" width="80">
 
 | Faculty | Research Areas | Project Description                |
 |---------|----------------|------------------------------------|
