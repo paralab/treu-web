@@ -5,7 +5,7 @@ layout: main
 
 ## Programming Systems 
 
-<img src="./images/elephant.png" alt="Floating-point Numbers" width="140">
+<img src="./images/elephant.png" alt="Floating-point Numbers" width="190">
 
 
 | Faculty | Research Areas | Project Description                |
