@@ -5,6 +5,7 @@ layout: main
 
 ## Programming Systems 
 
+![FP](images/elephant.png)
 
 
 | Faculty | Research Areas | Project Description                |
@@ -12,6 +13,9 @@ layout: main
 | [Ganesh Gopalakrishnan][gg] | Formal methods, floating point arithmetic | **Making Numerical Data Representation Efficient and Reliable:** Conceptually, HPC and ML involve representing and manipulating real numbers. This is done in practice using finite-precision floating-point numbers. Reducing the bit-width of floating-point numbers can dramatically improve performance as well as reduce energy consumption, but runs the risk of losing accuracy. This tradeoff will be carefully studied by the trainees.|
 
 | [Mary Hall][mh] | Compilers, Performance | **Sparse Tensor Code Synthesis with Automated Weight Reduction:** Tensors can be used to represent data sets such as  images. Such tensors can be sparsified, and the generated code can take advantage of this sparsity, helping reduce total computation and data movement.  This research will involve implementing functions to sparsify networks, considering implications on code synthesis, performance and accuracy. |
+
+
+![FP](images/brick.pdf)
 
 
 ## Practice 
