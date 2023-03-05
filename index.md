@@ -29,7 +29,7 @@ We **especially** encourage applications from
 
 ## **Questions?**
 
-Please ask your questions through email targeting reu-site-utah-ksoc@googlegroups.com. Please also see our instructions by searching for  *REU Site: Trust and Reproducibility of Intelligent Computation* within the [**NSF ETAP Portal**](https://etap.nsf.gov/) website. Kindly do not send-in any personal information other than through the above site, and unless requested.
+Please email reu-site-utah-ksoc@googlegroups.com. Also see our instructions by searching for  *REU Site: Trust and Reproducibility of Intelligent Computation* within the [**NSF ETAP Portal**](https://etap.nsf.gov/) website. Kindly do not send-in any personal information other than through the above site, and unless requested.
 
 
 
