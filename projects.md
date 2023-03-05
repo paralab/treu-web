@@ -27,6 +27,12 @@ layout: main
 | Faculty | Research Areas | Project Description                |
 |---------|----------------|------------------------------------|
 | [Eric Eide][ee] | Systems, Compilers | **Resilient Software Infrastructure for Wireless IoT Applications:** Using Utah's [POWDER](https://le.utah.gov/interim/2019/pdf/00004535.pdf) mobile and wireless *living laboratory*, distributed Internet-of-Things~(IoT) applications can be deployed and evaluated---but once deployed, the reliable behavior of an application is mostly up to the application itself.  E.g., can it operate correctly when one of its devices becomes unreachable? This project will explore, demonstrate, and/or enhance one or more open-source IoT programming platforms for conducting self-repairing wireless experiments in POWDER.  The project will introduce students to the challenges of reproducibility in POWDER, where devices and networks are not always reliable. |
+
+
+<img src="./images/flux.png" alt="Emulab" width="400">
+
+
+
 | [Jason Weise][jw] | Personal Data, HCI | **Human-Centered Design Applied to CloudLab Configuration:** Enable CloudLab users to make their work reproducible to: (1) resume work  even after a CloudLab reservation has expired; (2) share their work within their research lab; or, (3) submit it to an artifact evaluation committee.  This research will identify and explore  opportunities for better interface-level support to facilitate reproducibility while projects are in progress, rather than as a discrete final step at the end of a project. It will leverage Human-Centered Computing methods, including user observation, low- and medium-fidelity prototyping, and participatory design activities. |
 | [Mu Zhang][mz] | Software Security, Privacy | **Security Analysis of Configurable Scientific Computing Environments:** The software stacks of high performance computing infrastructure are at great risk, as evidenced by real-world attacks. Detecting vulnerabilities in HPC settings remains a challenging task because it requires a holistic understanding of highly-configurable scientific computing contexts. This project seeks to investigate the hardware, software and runtime contexts of HPC infrastructure, develop tools to comprehensively extract such contexts from individual HPC deployments, and incorporate a contextual model into automated vulnerability detection. |
 
