@@ -29,7 +29,7 @@ layout: main
 | [Eric Eide][ee] | Systems, Compilers | **Resilient Software Infrastructure for Wireless IoT Applications:** Using Utah's [POWDER](https://le.utah.gov/interim/2019/pdf/00004535.pdf) mobile and wireless *living laboratory*, distributed Internet-of-Things~(IoT) applications can be deployed and evaluated---but once deployed, the reliable behavior of an application is mostly up to the application itself.  E.g., can it operate correctly when one of its devices becomes unreachable? This project will explore, demonstrate, and/or enhance one or more open-source IoT programming platforms for conducting self-repairing wireless experiments in POWDER.  The project will introduce students to the challenges of reproducibility in POWDER, where devices and networks are not always reliable. |
 
 
-<img src="./images/flux.png" alt="Emulab" width="400">
+<img src="./images/flux.jpg" alt="Emulab" width="400">
 
 
 
