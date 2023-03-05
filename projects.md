@@ -5,7 +5,8 @@ layout: main
 
 ## Programming Systems 
 
-![FP](images/elephant.png)
+<img src="file://images/elephant.png" alt="Floating-point Numbers" width="20"/>
+
 
 
 | Faculty | Research Areas | Project Description                |
