@@ -5,7 +5,7 @@ layout: main
 
 ## Programming Systems 
 
-<img src="./images/elephant.png" alt="Floating-point Numbers" width="80">
+<img src="./images/elephant.png" alt="Floating-point Numbers" width="140">
 
 
 | Faculty | Research Areas | Project Description                |
@@ -42,7 +42,9 @@ layout: main
 | [P. Sadayappan][ps] | Compilers, Perf. Optimization, Matrix-Tensor Computation, Data Movement Complexity | Deep Neural Network models with very high accuracy have been developed for image processing and natural language processing applications. But accurate ML  models often are very large and extremely compute-intensive, making them infeasible to deploy in many contexts, e.g., edge devices. A challenge in developing more compact models is that unlike large models, the execution time and expended energy are no longer directly proportional to the number of arithmetic operations. This is because data movement overheads are much more difficult to amortize with compact ML models. This project will %explore the development of compare performance models for compact neural networks and the trade-offs between model size, model performance, and accuracy. |
 
 
-## Applications 
+## Applications
+
+<img src="./images/femur.png" alt="ortho.png" width="80">
 
 | Faculty | Research Areas | Project Description                |
 |---------|----------------|------------------------------------|
