@@ -5,7 +5,7 @@ layout: main
 
 ## Programming Systems 
 
-<img src="./images/elephant.png" alt="Floating-point Numbers" width="190">
+<img src="./images/elephant.png" alt="Floating-point Numbers" width="230">
 
 
 | Faculty | Research Areas | Project Description                |
@@ -15,13 +15,13 @@ layout: main
 | [Mary Hall][mh] | Compilers, Performance | **Sparse Tensor Code Synthesis with Automated Weight Reduction:** Tensors can be used to represent data sets such as  images. Such tensors can be sparsified, and the generated code can take advantage of this sparsity, helping reduce total computation and data movement.  This research will involve implementing functions to sparsify networks, considering implications on code synthesis, performance and accuracy. |
 
 
-<img src="./images/brick.png" alt="A computational brick" width="80">
+<img src="./images/brick.png" alt="A computational brick" width="190">
 
 
 ## Practice 
 
 
-<img src="./images/map.png" alt="Wireless signal strength" width="80">
+<img src="./images/map.png" alt="Wireless signal strength" width="190">
 
 
 | Faculty | Research Areas | Project Description                |
@@ -31,7 +31,7 @@ layout: main
 | [Mu Zhang][mz] | Software Security, Privacy | **Security Analysis of Configurable Scientific Computing Environments:** The software stacks of high performance computing infrastructure are at great risk, as evidenced by real-world attacks. Detecting vulnerabilities in HPC settings remains a challenging task because it requires a holistic understanding of highly-configurable scientific computing contexts. This project seeks to investigate the hardware, software and runtime contexts of HPC infrastructure, develop tools to comprehensively extract such contexts from individual HPC deployments, and incorporate a contextual model into automated vulnerability detection. |
 
 
-<img src="./images/xray.png" alt="A chest X-ray" width="80">
+<img src="./images/xray.png" alt="A chest X-ray" width="190">
 
 ## Machine Learning 
 
@@ -44,7 +44,7 @@ layout: main
 
 ## Applications
 
-<img src="./images/ortho.png" alt="Femur modeled by Shapeworks" width="80">
+<img src="./images/ortho.png" alt="Femur modeled by Shapeworks" width="190">
 
 | Faculty | Research Areas | Project Description                |
 |---------|----------------|------------------------------------|
