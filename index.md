@@ -27,15 +27,15 @@ We will *fly out* our REU trainees to Utah, *house them* in our wonderful on-cam
 
 Activities in this REU site are sponsored by the National Science Foundation (NSF)'s Office of Advanced Cyberinfrastructure ([OAC](https://www.nsf.gov/div/index.jsp?div=OAC)) whose mission is to train tomorrow's workforce in areas such as covered by this REU site.
 
-## **How can I apply?**
+## **Who is Especially Encouraged to Apply?**
 
-While the program is open to all, students with any of the following traits is especially encouraged to apply:
+While the program is open to all, students with any of the following traits are especially encouraged to apply:
 
  - Underrepresented in Computer Science Research i.e. Gender minorities, African Americans, Hispanics, American Indians, Alaska Natives, Native Hawaiians, Pacific Islanders, and persons with disabilities;
  
  - Sophomore or Junior undergraduate majoring in Mathematics or Computer Science
  
- - Interest in a PhD in Computer Science
+ - Those interest in pursuing a PhD in Computer Science
 
 ## **Questions?**
 
