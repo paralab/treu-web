@@ -13,11 +13,11 @@ APPLY [**HERE**.](https://etap.nsf.gov/award/1125/opportunity/1354)
 
 We will introduce our trainees to the basics of many exciting and crucially important computer science research areas, demonstrating through actual examples how trust and reproducibility are enhanced, and how correctness verification is performed to eliminate software defects. For example:
 
-- We will introduce the basics of High-performance Computing (HPC), including how numerical algorithms are specified conveniently using Jupyter notebooks and submitted for execution on supercomputers.
+- We will introduce the basics of High-performance Computing (HPC), including how numerical algorithms are specified conveniently using Jupyter notebooks and submitted for execution on supercomputers. Our guided approach will help you start a day not knowing anything about HPC and end that day having submitted, run and gathered your first HPC simulation results!
 
-- We will introduce our trainees to the process of classifying images using machine learning (ML). The trainees will use state-of-the-art ML training systems that are driven by Jupyter notebook-based scripts in order to achieve acceptable levels of classification accuracy.
+- We will introduce our trainees to the process of classifying images using machine learning (ML). The trainees will use state-of-the-art ML training systems that are driven by Jupyter notebook-based scripts in order to achieve acceptable levels of classification accuracy. Our guided approach will help you start a day not knowing anything about ML and end that day having trained a Neural Network to classify (say) X-Ray images with over 90\% accuracy.
 
-- We will demonstrate advanced wireless networking in the context of Utah's POWDER project. In particular, they will learn how software-defined radios work and how transmissions from on campus buses can be monitored.
+- We will demonstrate advanced wireless networking in the context of Utah's POWDER project. Our approach will help you quickly learn how software-defined radios work. You will be guided through the process of collecting data from our on-campus shuttle buses as to their locations.
 
 - In the context of all these projects, we will point out how trust, reproducibility and verifiability are enhanced.
 
