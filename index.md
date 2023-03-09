@@ -7,7 +7,7 @@ layout: main
 
 ## REU Site: Trust and Reproducibility of Intelligent Computation
 
-**Applications are now welcome** from undergraduate students at all levels (US Citizens, Permanent Residents) to be selected for a 10-week NSF Research Experience for Undergraduates Traineeship held from June 1st till August 10th, 2023. The traineeship will be offered at the campus of the University of Utah, in the Kahlert School of Computing, located near the majestic Wasatch Mountain ranges.  The application deadline is April 15, 2023!
+**Applications are now welcome** from undergraduate students at all levels (US Citizens, Permanent Residents) to be selected for a 10-week NSF Research Experience for Undergraduates Traineeship held from June 1st till August 10th, 2023. The traineeship will be offered at the campus of the University of Utah, in the Kahlert School of Computing, located near the majestic Wasatch Mountain ranges.  The application deadline is April 15, 2023, and *we expect to fund only about 10 REUs*.
 
 APPLY [**HERE**:](https://etap.nsf.gov/award/1125/opportunity/1354)
 
@@ -29,9 +29,7 @@ Activities in this REU site are sponsored by the National Science Foundation (NS
 
 ## **How can I apply?**
 
-While the program is open to all, students with any of the following traits is especially encouraged to apply via the [**NSF ETAP Portal**](https://etap.nsf.gov/award/1125/opportunity/1354). Note that the **Application Deadline** is April 15, 2023, and that *we expect to fund only about 10 REUs*.
-
-We **especially** encourage applications from
+While the program is open to all, students with any of the following traits is especially encouraged to apply:
 
  - Underrepresented in Computer Science Research i.e. Gender minorities, African Americans, Hispanics, American Indians, Alaska Natives, Native Hawaiians, Pacific Islanders, and persons with disabilities;
  
@@ -41,7 +39,8 @@ We **especially** encourage applications from
 
 ## **Questions?**
 
-See our instructions at our *REU Site: Trust and Reproducibility of Intelligent Computation* listed within the [**NSF ETAP Portal**](https://etap.nsf.gov/award/1125/opportunity/1354). For additional questions, please email reu-site-utah-ksoc@googlegroups.com (kindly do not send-in any personal information other than through the above site, and unless requested).
+For additional questions, please email reu-site-utah-ksoc@googlegroups.com (kindly do not send-in any personal information other than through the above site, and unless requested). There are also instructions provided at our *REU Site: Trust and Reproducibility of Intelligent Computation* listed within the [**NSF ETAP Portal**](https://etap.nsf.gov/award/1125/opportunity/1354).
+
 
 --
 
