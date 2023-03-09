@@ -9,7 +9,7 @@ layout: main
 
 **Applications are now welcome** from undergraduate students at all levels (US Citizens, Permanent Residents) to be selected for a 10-week NSF Research Experience for Undergraduates Traineeship held from June 1st till August 10th, 2023. The traineeship will be offered at the campus of the University of Utah, in the Kahlert School of Computing, located near the majestic Wasatch Mountain ranges.  The application deadline is April 15, 2023!
 
-APPLY HERE: https://etap.nsf.gov/award/1125/opportunity/1354
+APPLY [**HERE**:](https://etap.nsf.gov/award/1125/opportunity/1354)
 
 We will introduce our trainees to the basics of many exciting and crucially important computer science research areas, demonstrating through actual examples how trust and reproducibility are enhanced, and how correctness verification is performed to eliminate software defects. For example:
 
@@ -29,7 +29,7 @@ Activities in this REU site are sponsored by the National Science Foundation (NS
 
 ## **How can I apply?**
 
-While the program is open to all, students with any of the following traits is especially encouraged to apply via the [**this NSF ETAP Portal**](https://www.nsf.gov/div/index.jsp?div=OAC). Note that the **Application Deadline** is April 15, 2023, and that *we expect to fund only about 10 REUs*.
+While the program is open to all, students with any of the following traits is especially encouraged to apply via the [**NSF ETAP Portal**](https://etap.nsf.gov/award/1125/opportunity/1354). Note that the **Application Deadline** is April 15, 2023, and that *we expect to fund only about 10 REUs*.
 
 We **especially** encourage applications from
 
