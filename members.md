@@ -15,7 +15,7 @@ layout: main
 - [![Jeff's photo](/photos/jeffp.jpg) Jeff Philips](https://www.cs.utah.edu/~jeffp/)
 - [![Saday's photo](/photos/saday.jpg) P. Sadayappan](https://www.cs.utah.edu/~saday/)
 - [![Hari's photo](/photos/hari.jpg) Hari Sundar](https://www.cs.utah.edu/~hari)
-- [![Eliane's photo](/photos/eliane.jpg) Eliane Weise](https://eliane-s-wiese.owlstown.net/)
-- [![Jason's photo](/photos/jason.jpg) Jason Weise](https://www.cs.utah.edu/~weise)
+- [![Eliane's photo](/photos/eliane.jpg) Eliane Wiese](https://eliane-s-wiese.owlstown.net/)
+- [![Jason's photo](/photos/jason.jpg) Jason Wiese](https://www.cs.utah.edu/~wiese)
 - [![Mu's photo](/photos/zhang.jpg) Mu Zhang](https://sites.google.com/site/muzhang82)
 
