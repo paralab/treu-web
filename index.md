@@ -7,13 +7,13 @@ layout: main
 
 ## REU Site: Trust and Reproducibility of Intelligent Computation
 
-**Applications are now welcome** from undergraduate students at all levels (US Citizens, Permanent Residents) to be selected for a 10-week NSF Research Experience for Undergraduates Traineeship held from June 1st till August 4th, 2023. The traineeship will be offered at the campus of the University of Utah, in the Kahlert School of Computing, located near the majestic Wasatch Mountain ranges.  The application deadline is April 15, 2023, and *we expect to fund only about 10 REUs*. The selected students will earn a stipend of $7,200 for this period, and will additionally be compensated for airfare, room and board.
+**Applications are now welcome** from undergraduate students at all levels (US Citizens, Permanent Residents) to be selected for a 10-week NSF Research Experience for Undergraduates Traineeship held from May 31, 2024, till August 2nd, 2024. The traineeship will be offered at the campus of the University of Utah, in the Kahlert School of Computing, located near the majestic Wasatch Mountain ranges.  The application deadline is March 22, 2024, and *we expect to fund only about 10 REUs*. The selected students will earn a stipend of $7,200 for this period, and will additionally be compensated for airfare, room and board.
 
 We will introduce our trainees to the basics of many exciting and crucially important computer science research areas such as High Performance Computing, Machine Learning, and Wireless Networking. The emphasis is on hands-on demonstrations of these technologies, and how trust and reproducibility are enhanced in these areas.
 
 This opportunity is open to students early in their undergraduate career, and no research experience is required.  We encourage applications from students in populations underrepresented in computer science research, including women, persons with disabilities, Blacks and African Americans, Hispanics and Latinos, American Indians, Alaska Natives, Native Hawaiians, and Other Pacific Islanders.
 
-APPLY [**HERE**.](https://etap.nsf.gov/award/1125/opportunity/1354)
+APPLY [**HERE**.](https://etap.nsf.gov/award/1125/opportunity/8911)
 
 ## EXAMPLES OF TRAINING MODULES
 
