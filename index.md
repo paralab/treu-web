@@ -14,7 +14,7 @@ We will introduce our trainees to the basics of many exciting and crucially impo
 
 This opportunity is open to students early in their undergraduate career, and no research experience is required.  We encourage applications from students in populations underrepresented in computer science research, including women, persons with disabilities, Blacks and African Americans, Hispanics and Latinos, American Indians, Alaska Natives, Native Hawaiians, and Other Pacific Islanders.
 
-APPLY [**HERE**.](https://etap.nsf.gov/award/1125/opportunity/8911)
+APPLY [**HERE**.](https://etap.nsf.gov/award/1125/opportunity/10365)
 
 ## EXAMPLES OF TRAINING MODULES
 
@@ -39,7 +39,7 @@ Activities in this REU site are sponsored by the National Science Foundation (NS
 
 ## **Questions?**
 
-For additional questions, please email reu-site-utah-ksoc@googlegroups.com (kindly do not send-in any personal information other than through the above site, and unless requested). There are also instructions provided at our *REU Site: Trust and Reproducibility of Intelligent Computation* listed within the [**NSF ETAP Portal**](https://etap.nsf.gov/award/1125/opportunity/8911)
+For additional questions, please email reu-site-utah-ksoc@googlegroups.com (kindly do not send-in any personal information other than through the above site, and unless requested). There are also instructions provided at our *REU Site: Trust and Reproducibility of Intelligent Computation* listed within the [**NSF ETAP Portal**](https://etap.nsf.gov/award/1125/opportunity/10365)
 
 --
 
