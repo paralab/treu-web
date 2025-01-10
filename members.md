@@ -8,7 +8,7 @@ layout: main
 {: .photo-list}
 - [![Aditya's photo](/photos/aditya.jpg) Aditya Bhaskara](https://www.cs.utah.edu/~bhaskara/)
 - [![Eric's photo](/photos/eeide.jpg) Eric Eide](https://www.cs.utah.edu/~eeide/)
-- [![Shireen's photo](/photos/shireen.png) Shireen Elhabian](http://www.sci.utah.edu/~shireen/)
+- [![Shireen's photo](/photos/shireen.jpg) Shireen Elhabian](http://www.sci.utah.edu/~shireen/)
 - {:.long}
   [![Ganesh's photo](/photos/ganesh.jpg) Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/)
 - [![Mary's photo](/photos/mhall.jpg) Mary Hall](https://www.cs.utah.edu/~mhall/)
