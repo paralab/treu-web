@@ -23,11 +23,11 @@ APPLY [**HERE**.](https://etap.nsf.gov/award/1125/opportunity/10365)
 We are glad to report that all our prior students did great work toward the REU Site. Three results stand out, in particular
 
 
-- [A paper describing our 2023 projecs is here.] (https://dl.acm.org/doi/pdf/10.1145/3624062.3624100) 
+- [**A paper describing our 2023 projecs is here**.](https://dl.acm.org/doi/pdf/10.1145/3624062.3624100) 
 
-- [An ACM SRC poster presented at Supercomputing 2024 by Iana Lin (Berkeley) and Paul Jiang (Purdue) is here.] (https://etap.nsf.gov/award/1125/opportunity/10365)
+- [**An ACM SRC poster presented at Supercomputing 2024 by Iana Lin (Berkeley) and Paul Jiang (Purdue) is here**.](https://etap.nsf.gov/award/1125/opportunity/10365)
 
-- [A 90-page paper that a 2023-student produced since return to his school is here.] (https://openreview.net/pdf?id=1QeI99nH9k)
+- [**A 90-page paper that a 2023-student produced since return to his school is here**.](https://openreview.net/pdf?id=1QeI99nH9k)
 
 ## EXAMPLES OF TRAINING MODULES
 
