@@ -14,7 +14,20 @@ We will introduce our trainees to the basics of many exciting and crucially impo
 
 This opportunity is open to students early in their undergraduate career, and no research experience is required.  We encourage applications from students in populations underrepresented in computer science research, including women, persons with disabilities, Blacks and African Americans, Hispanics and Latinos, American Indians, Alaska Natives, Native Hawaiians, and Other Pacific Islanders.
 
+
+
 APPLY [**HERE**.](https://etap.nsf.gov/award/1125/opportunity/10365)
+
+## EXAMPLES OF RESULTS FROM PREVIOUS REU SITE YEARS
+
+We are glad to report that all our prior students did great work toward the REU Site. Three results stand out, in particular
+
+
+- [A paper describing our 2023 projecs is here.] (https://dl.acm.org/doi/pdf/10.1145/3624062.3624100) 
+
+- [An ACM SRC poster presented at Supercomputing 2024 by Iana Lin (Berkeley) and Paul Jiang (Purdue) is here.] (https://etap.nsf.gov/award/1125/opportunity/10365)
+
+- [A 90-page paper that a 2023-student produced since return to his school is here.] (https://openreview.net/pdf?id=1QeI99nH9k)
 
 ## EXAMPLES OF TRAINING MODULES
 
