@@ -12,9 +12,7 @@ Compensation for airfare, room and board are additional to this.
 
 We will introduce our trainees to the basics of many exciting and crucially important computer science research areas such as High Performance Computing, Machine Learning, and Wireless Networking. The emphasis is on hands-on demonstrations of these technologies, and how trust and reproducibility are enhanced in these areas.
 
-This opportunity is open to students early in their undergraduate career, and no research experience is required.  We encourage applications from students in populations underrepresented in computer science research, including women, persons with disabilities, Blacks and African Americans, Hispanics and Latinos, American Indians, Alaska Natives, Native Hawaiians, and Other Pacific Islanders.
-
-
+This opportunity is open to students early in their undergraduate career, and no research experience is required.  We encourage applications from students of all backgrounds, hoping to enrich their experience with their joint presence at our beautiful campus.
 
 APPLY [**HERE**.](https://etap.nsf.gov/award/1125/opportunity/10365)
 
