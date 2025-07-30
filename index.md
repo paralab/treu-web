@@ -7,14 +7,36 @@ layout: main
 
 ## REU Site: Trust and Reproducibility of Intelligent Computation
 
-**Applications are now welcome** from undergraduate students at all levels (US Citizens, Permanent Residents) to be selected for a 10-week NSF Research Experience for Undergraduates Traineeship held from May 27, 2025, till about August 2nd, 2025. The traineeship will be offered at the campus of the University of Utah, in the Kahlert School of Computing, located near the majestic Wasatch Mountain ranges.  The application deadline is March 22, 2025, and *we expect to fund only about 10 REUs*. The selected students will earn a stipend of $7,200 for this period.
+The 2025 REU Posters were these:
+
+1. Evaluating In-Context Learning with Distribution Shifts, Sameera Nageshwar (Univ of Maryland); Advisor: Aditya Bhaskara
+
+2. Characterization of Sparse Matrix Reordering Performance, Jack Cashman (Univ of Rochester); Advisors: Omid Asudeh and Saday Sadayappan
+
+3. Analyzing Cognitive Change and Ability Through Crossroads Fine-Finger Tracking, Hannah Larsen (Univ of Utah); Advisor: Vineet Pandey
+
+4. A Co-Design Study to Develop a Clinician Dashboard for Movement Disorder Specialists, Vivian Zheng (Stony Brook University);  Advisor: Vineet Pandey
+
+5. Neurovoice Tool for Diadochokinetic Cognitive Assessment, Alex Goff (University of Utah); Advisor: Vineet Pandey
+
+6. Publicly-Detectable Watermarking For Image Generative Models, Eliana Du (Princeton), Bryce Crouse (Univ of Utah),  Kayle Shurtliff (Univ of Utah); Advisor: Pratik Soni 
+
+7. Investigating Limits of Deep Learning based Medical Segmentation and Classification Models, Joshua Lee (De Anza College) and Hannah Morrison (Centre College); Advisors : Tushar Kataria and Shireen Elhabian
+
+8. AstroMeans: Identifying Outliers in Radio Astronomy Data, Muhammad Mir (Columbia Engineering); Advisor: Jeff Phillips
+
+9. Comparing Static and Empirical Floating Point Error Analysis Methods, Vinci Shi (Bowdoin) and Brian Chen (Binghamton); Advisor: Ganesh Gopalakrishnan
+
+
+**Applications are now Closed. This was posted earlier in 2025. Watch this space for 2026**
+This is for undergraduate students at all levels (US Citizens, Permanent Residents) to be selected for a 10-week NSF Research Experience for Undergraduates Traineeship held from (watch for 2026 - this was May 27, 2025, till about August 2nd, 2025). The traineeship will be offered at the campus of the University of Utah, in the Kahlert School of Computing, located near the majestic Wasatch Mountain ranges.  The application deadline is March 22, 2025, and *we expect to fund only about 10 REUs*. The selected students will earn a stipend of (watch this space - was $7,200) for this period.
 Compensation for airfare, room and board are additional to this.
 
 We will introduce our trainees to the basics of many exciting and crucially important computer science research areas such as High Performance Computing, Machine Learning, and Wireless Networking. The emphasis is on hands-on demonstrations of these technologies, and how trust and reproducibility are enhanced in these areas.
 
 This opportunity is open to students early in their undergraduate career, and no research experience is required.  We encourage applications from students of all backgrounds, hoping to enrich their experience with their joint presence at our beautiful campus.
 
-APPLY [**HERE**.](https://etap.nsf.gov/award/1125/opportunity/10365)
+(Closed for 2025) APPLY [**HERE**.](https://etap.nsf.gov/award/1125/opportunity/10365)
 
 ## EXAMPLES OF RESULTS FROM PREVIOUS REU SITE YEARS
 
